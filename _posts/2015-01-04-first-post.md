@@ -4,7 +4,7 @@ title: First post!
 image: /img/hello_world.jpeg
 ---
 
-​```c++
+​```
 int main()
 {
   std::cout << "Hello World!";
