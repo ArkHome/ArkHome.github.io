@@ -6,11 +6,8 @@ image: /img/hello_world.jpeg
 
 ​```
 int main()
-
 {
-
   std::cout << "Hello World!";
-  
 }
 
 ​```
