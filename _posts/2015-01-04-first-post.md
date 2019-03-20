@@ -6,9 +6,13 @@ image: /img/hello_world.jpeg
 
 ​```
 int main()
+
 {
+
   std::cout << "Hello World!";
+  
 }
+
 ​```
 
 This is my first post, how exciting!
